@@ -32,6 +32,7 @@ Implementation Details:
 
 Future Scope:
 
+	* Code validation class to validate whether boggle board letters given by user are valid or not wrt each dice letters of boggle
 	* Create a web app 
 	* Allow variable size boggle board
 
