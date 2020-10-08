@@ -1,0 +1,5 @@
+com\game\boggle\Boggle.class
+com\game\boggle\Trie.class
+com\game\boggle\DiceLetters.class
+com\game\boggle\WordSearch.class
+com\game\boggle\TrieNode.class
