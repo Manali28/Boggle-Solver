@@ -1,4 +1,5 @@
 # Boggle-Solver
+
 Project: Boggle Game
 
 	This project allows the users to input their own 4X4 boggle board in command-line and then a list of valid words in the board displayed to the user
@@ -28,7 +29,6 @@ Implementation Details:
 			8. Limit Line Length by formatting the code
 			
 			10. Consistent Temporary Names
-			
 
 Future Scope:
 
